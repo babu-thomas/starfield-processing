@@ -1,5 +1,7 @@
 # Starfield
 
+![starfield-gif](https://media.giphy.com/media/MnLAlBWtWdWmI/giphy.gif)
+
 A starfield effect simulation using the [Processing](https://processing.org/) programming language. Inspired by Daniel Shiffman's
 awesome [video](https://www.youtube.com/watch?v=17WoOqgXsRM).
 
